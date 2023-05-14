@@ -1,0 +1,88 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black !important;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.margin-bottom {
+  margin-bottom: 300px;
+}
+
+.logo-fs {
+  font-size: 24px;
+}
+
+.head {
+  font-size: 96px;
+}
+
+.head1 {
+  font-size: 64px;
+}
+
+.head2 {
+  font-size: 48px;
+}
+
+.head3 {
+  font-size: 36px;
+}
+
+.head4 {
+  font-size: 18px;
+}
+
+.pera {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: justify;
+}
+
+.text-web-primary {
+  color: rgb(255, 193, 120);
+}
+
+.ls-text {
+  letter-spacing: 7px;
+}
+
+.btn-web {
+  padding: 18px 67px !important;
+  background-color: rgb(255, 163, 67) !important;
+  border-radius: 10px !important;
+}
+
+.header {
+  background: url(../../image/header.jpg) no-repeat center/cover;
+}
+
+.navbar-margin {
+  margin-right: 60px;
+}
+
+.banner {
+  padding: 401px 0 462px;
+}
+
+.steady {
+  background: url(../../image/steady.jpg) no-repeat center/cover;
+  padding: 598px 0 32px;
+}
+
+.footer {
+  padding: 0px 0px 30px 0px;
+}
+
+.footer-bottom {
+  padding-top: 71px;
+}
+
+.footer-lower-down {
+  margin-top: 154px;
+}

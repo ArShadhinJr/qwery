@@ -1,0 +1,49 @@
+@import "var";
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black !important;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.margin-bottom {
+  margin-bottom: 300px;
+}
+.logo-fs {
+  font-size: 24px;
+}
+.head {
+  font-size: 96px;
+}
+.head1 {
+  font-size: 64px;
+}
+.head2 {
+  font-size: 48px;
+}
+.head3 {
+  font-size: 36px;
+}
+.head4 {
+  font-size: 18px;
+}
+.pera {
+  font-weight: 600;
+font-size: 14px;
+line-height: 32px;
+text-align: justify;
+}
+.text-web-primary {
+  color: rgba(255, 193, 120, 1);
+}
+.ls-text{
+    letter-spacing: $letter-spacing;
+}
+.btn-web {
+  padding: 18px 67px !important;
+  background-color: rgba(255, 163, 67, 1) !important;
+  border-radius: 10px !important;
+
+}

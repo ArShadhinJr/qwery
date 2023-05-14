@@ -1,0 +1,13 @@
+@import "var"; 
+
+.header {
+    background: url(../../image/header.jpg) no-repeat center / cover;
+}
+
+.navbar-margin{
+    margin-right: $navbar-margin-right;
+}
+.banner {
+    padding: 401px 0 462px;
+}
+
